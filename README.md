@@ -9,6 +9,9 @@
   #### -Angular
    ##### I want to learn more about methods of creating UIs in the browser
  
+ ### 🔭 I’m currently working on 
+  #### Sample IT company website, during this project i'm focused on improving myself in terms of GIT workflow, simultaneously I learn C# so that I'll be able to create my own          back end and handle applying for jobs, logging in as a client, writing messages etc.
+ 
  ### 📫 Contact me
   #### Email adress: KarolKaczorowskiC.dev@gmail.com
   #### Visit my website: https://karolkaczorowski78.github.io/portfolio_personal/
