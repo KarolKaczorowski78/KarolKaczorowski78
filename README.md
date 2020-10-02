@@ -1,6 +1,6 @@
 ## Hi there!👋 I'm Karol
 
-### ⚡ Something about me
+### ⚡ Who am I?
 #### I'm a young and ambicious man from Cracow. My journey with programming began somewhere in the middle of November 2019. Back then I didn't really know what to do for living, I decided to start learning programming, even though I wasn't enthusiastic at the time I kept doing it, after certain time I relized that computer science is one of the most awesome and interesting fields of science. By curiosity was growing in line with my knowledge, every piece of information was like a key which opened another locker containing opportunity. Beside programming I love spending my time training, I'm incredibly passioned about martial arts, I train 6 times a week and it brings a perfect harmony to my life. 
 
 ### 🌱 I’m currently learning
