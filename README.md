@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there!👋 I'm Karol
 
+## Something about me⚡
+# I'm a young and abmbicious man from Cracow.
 <!--
 **KarolKaczorowski78/KarolKaczorowski78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
