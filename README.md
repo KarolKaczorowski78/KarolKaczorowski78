@@ -5,7 +5,7 @@
 
 ### 🌱 I’m currently learning
   #### -C#
-   ##### .NET to be exact, it is my priority right now becouse I want to wider my possibilities in terms of web development.
+   ##### It is my priority right now, I want to wider my possibilities in terms of web development and gain knowledge about object oriented programming.
   #### -Angular
    ##### I want to learn more about methods of creating UIs in the browser
  
