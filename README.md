@@ -5,9 +5,9 @@
 
 ### 🌱 I’m currently learning
   #### -C#
-   ##### It is my priority right now, I want to wider my possibilities in terms of web development and gain knowledge about object oriented programming.
+   ##### It is my priority right now, I want to wider my possibilities in terms of web development and dive deeper into object oriented programming.
   #### -Angular
-   ##### I want to learn more about methods of creating UIs in the browser
+   ##### I want to learn more about methods of creating UIs in the browser.
  
  ### 🔭 I’m currently working on 
   #### Sample IT company website, during this project i'm focused on improving myself in terms of GIT workflow, simultaneously I learn C# so that I'll be able to create my own          back end with ASP.NET and handle applying for jobs, logging in as a client, writing messages etc.
