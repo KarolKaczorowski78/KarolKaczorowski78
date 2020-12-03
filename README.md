@@ -9,8 +9,8 @@
  
  ### 🔭 I’m currently working on 
   #### - Front end development at https://github.com/CodeEnthusiasts
-  #### - Vegetable online shop
-  #### - Sample gym website (fully individual, side project)
+  #### - Vegetable online shop https://github.com/KarolKaczorowski78/vegetable_shop
+  #### - Sample gym website (fully individual, side project) https://github.com/KarolKaczorowski78/gym_website
  
  ### 📫 Contact me
   #### Email adress: KarolKaczorowskiC.dev@gmail.com
