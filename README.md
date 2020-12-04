@@ -11,6 +11,7 @@
   #### - Front end development at https://github.com/CodeEnthusiasts
   #### - Vegetable online shop https://github.com/KarolKaczorowski78/vegetable_shop
   #### - Sample gym website (fully individual, side project) https://github.com/KarolKaczorowski78/strongSpiritGym
+  #### - Side ASP.NET API development
  
  ### 📫 Contact me
   #### Email adress: KarolKaczorowskiC.dev@gmail.com
