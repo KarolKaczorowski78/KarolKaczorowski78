@@ -6,7 +6,8 @@
 ### 🌱 I’m currently learning
   #### - C# (ASP.NET core)
   #### - Python
-  #### - Progressive web apps
+  #### - Progressive web apps\
+  #### - Additionally I'm expanding my knowledge in terms of other branches of computer science
  
  ### 🔭 I’m currently working on 
   #### - Front end development at https://github.com/CodeEnthusiasts
