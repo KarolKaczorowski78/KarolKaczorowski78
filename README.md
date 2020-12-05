@@ -7,6 +7,7 @@
   #### - C# (ASP.NET core)
   #### - Python
   #### - Progressive web apps
+  #### - SQL
   #### - Additionally I'm expanding my knowledge in terms of other branches of computer science
  
  ### 🔭 I’m currently working on 
