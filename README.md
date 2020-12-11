@@ -19,6 +19,7 @@
  ### 📫 Contact me
   #### Email adress: KarolKaczorowskiC.dev@gmail.com
   #### Visit my website: https://karolkaczorowski78.github.io/portfolio_personal/
+  #### LinkedIn profile: https://www.linkedin.com/in/karol-kaczorowski-8896931b9/
 <!--
 **KarolKaczorowski78/KarolKaczorowski78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
