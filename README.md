@@ -1,14 +1,11 @@
 ## Hi there!👋 I'm Karol
 
-### ⚡ Who am I?
-#### I'm a young and ambicious man from Cracow. My journey with programming began in high school. Back then I didn't really know what to do for living, I decided to start learning programming. Even though I wasn't enthusiastic about it I kept doing it. After some time I realized that computer science is one of the most awesome and interesting fields of science. My curiosity was growing in line with knowledge, every piece of information was like a key which opened another locker containing opportunity. Beside programming I love spending my time training, I'm incredibly passioned about martial arts, I train 6 times a week and it brings a perfect harmony to my life and keeps me motivated on the daily basis.
-
 ### 🌱 I’m currently learning
-  #### - C# (ASP.NET core)
+  #### - NodeJS
   #### - Python
   #### - Progressive web apps
   #### - SQL
-  #### - Additionally I'm expanding my knowledge in terms of other branches of computer science
+  #### - Additionally I'm expanding my knowledge in terms of other branches of computer science on studies
  
  ### 🔭 I’m currently working on 
   #### - Front end development at https://github.com/CodeEnthusiasts
