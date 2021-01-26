@@ -5,14 +5,13 @@
   #### - Python
   #### - Progressive web apps
   #### - SQL
-  #### - C# and ASP.NET core
+  #### - Go
   #### - Additionally I'm expanding my knowledge in terms of other branches of computer science on studies
  
  ### 🔭 I’m currently working on 
   #### - Front end development at https://github.com/CodeEnthusiasts
   #### - Vegetable online shop https://github.com/KarolKaczorowski78/vegetable_shop
   #### - Gym website (fully individual) https://github.com/KarolKaczorowski78/strongSpiritGym
-  #### - Side ASP.NET API development
  
  ### 📫 Contact me
   #### Email adress: KarolKaczorowskiC.dev@gmail.com
